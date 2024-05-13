@@ -1,4 +1,4 @@
-![Screenshot (25)](https://github.com/cse-kiet/PCSE24-71/assets/163794362/af5b731a-39bb-4de2-9cbc-581dcd2d2381)# PCSE24-71
+# PCSE24-71
 # MedicWise
 
 ## Overview
