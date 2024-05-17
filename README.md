@@ -1,6 +1,5 @@
 # PCSE24-71
 # MedicWise
-
 ## Overview
 MEDICWISE is a cutting-edge medical consultancy platform leveraging advanced technologies to provide seamless and effective online medical consultations. This document outlines the strategic approach and technology stack utilized in building the platform, along with its operational framework.
 
